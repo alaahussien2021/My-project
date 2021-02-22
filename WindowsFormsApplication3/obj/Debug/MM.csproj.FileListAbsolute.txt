@@ -1,0 +1,3 @@
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb

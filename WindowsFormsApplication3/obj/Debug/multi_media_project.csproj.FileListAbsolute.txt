@@ -1,0 +1,69 @@
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Form1.resources
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csproj.GenerateResource.Cache
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+c:\users\m-b 16-10-2018\documents\visual studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csprojResolveAssemblyReference.cache
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Sahnon.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.huffman.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.adabtive_hulfman.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DATA_SHOW.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LZW.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Arthmatic.resources
+C:\Users\M-B 16-10-2018\Documents\Visual Studio 2012\Projects\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.main.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Arthmatic.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DATA_SHOW.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.huffman.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LZW.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.main.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RLC.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Shanon.resources
+C:\Users\lenovo\Desktop\Senior\Project\proj\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AdabtiveHulfman.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AdabtiveHulfman.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Arthmatic.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.DATA_SHOW.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VRLC.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RLC.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.huffman.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LZW.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.main.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Shanon.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\كيرلس منصف اسعد-علي ممدوح علي\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.pdb
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.AdabtiveHulfman.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Arthmatic.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.show.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.VRLC.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.RLC.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.huffman.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.LZW.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.main.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.Shanon.resources
+C:\Users\lenovo\Desktop\Senior\Project\الاء حسين محمد\الاء حسين محمد - رابعة بايو\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\multi_media_project.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\bin\Debug\WindowsFormsApplication3.exe.config
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.exe
+C:\Users\lenovo\Desktop\Senior\Project\Alaa hussien mohamed\Alaa hussien-4 Bio\WindowsFormsApplication3\WindowsFormsApplication3\obj\Debug\WindowsFormsApplication3.pdb
